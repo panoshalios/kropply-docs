@@ -7,13 +7,9 @@ sidebar_position: 3
 Use this section to learn to use the Kropply terminal, where you will receive color coded, intuitive suggestions to debug your code.
 
 ### Open Your Terminal
-To open the Kropply terminal, clck the "Open terminal" button on Kropply's sidebar.
+To open and use Kropply, make sure the **three boxes** in Kropply's sidebar are checked off.
 
-![Open](OpenTerminal.png)
- 
-Now, you should see a new Kropply Terminal available.
-
-![Terminal](Terminal.png)
+![CheckBoxes](images/MainPanelReady.png)
 
 ### Using the Kropply Terminal
 
