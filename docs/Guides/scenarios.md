@@ -13,7 +13,7 @@ Anytime you're writing code!
 
 When using our terminal, Kropply will automatically run in the background, letting you know where you can fix your code.
 
-![Download Kropply here!](images/Generate Code Artboard.gif)
+![Download Kropply here!](images/GenerateCodeArtboard.gif)
 
 <!---
 I think that a demo would best fit the rest of this page.
