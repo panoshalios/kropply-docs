@@ -11,9 +11,9 @@ To open and use Kropply, make sure the **three boxes** in Kropply's sidebar are 
 
 ![CheckBoxes](images/MainPanelReady.png)
 
-### Using the Kropply Terminal
+### Using Kropply
 
-To run your code _______
+Use 'command + s' for Kropply to automatically run in the background
 
 Blue = Bug explanation \
 Green = Step-by-step instruction of how to fix the error
@@ -21,6 +21,7 @@ Green = Step-by-step instruction of how to fix the error
 With these messages going directly to your terminal, you can easily understand the errors in your code and fix them in an instant. 
 
 
+![Terminal](images/Kropply-ExampleSuggestion.png)
 
 
 <!---
