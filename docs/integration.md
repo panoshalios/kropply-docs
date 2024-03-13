@@ -9,28 +9,20 @@ Use this section to learn to use the Kropply terminal, where you will receive co
 ### Open Your Terminal
 To open and use Kropply, make sure the **three boxes** in Kropply's sidebar are checked off.
 
-![CheckBoxes](images/MainPanelReady.png)
+<img src="images/MainPanelReady.png" width="300">
 
 ### Using Kropply
 
-Use 'command + s' for Kropply to automatically run in the background
+- Use `command + s` for Kropply to automatically run in the background
+- Have it installed as a **devlopment dependency**
+- Use `npm i -d typescript jest ts-jest`
+
+### Understanding Kropply
 
 Blue = Bug explanation \
 Green = Step-by-step instruction of how to fix the error
 
 With these messages going directly to your terminal, you can easily understand the errors in your code and fix them in an instant. 
 
+<img src="images/Kropply-ExampleSuggestion.png" width="300">
 
-![Terminal](images/Kropply-ExampleSuggestion.png)
-
-
-<!---
-Here, I need to be updated on running Kropply, as mine is not running
-
-Should we have: 
-- desc of which linux commands to use
-- block text of refresher on getting file paths, cd, etc
-- and can you use the vs code run button yet or should that nor be included?
-
-
---->
