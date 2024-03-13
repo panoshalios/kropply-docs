@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Use this section to sign up for and download Kropply, a Visual Studio Code extension that **fixes logic, package, and unit-level bugs in your codebase** in real time.
 
+![ActionPt](images/ActionPointsAndExplanationArtboardOptimized.gif)
+
 ### Signing Up
 To get on the list for Kropply, simply go to [our website]("https://www.kropply.com") and enter your email in the dialogue box.
 
