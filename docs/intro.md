@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-![Summary](images/SummaryArtboard.png)
+![Summary](static/img/SummaryArtboard.png)
 
 **Welcome to Kropply!**
 
@@ -14,7 +14,7 @@ Here, you can learn how to streamline your coding process with a tool to fix **l
 
 Kropply is a Visual Studio Code extension that **determines bug fixes for your code in real time.** Using the Kropply terminal, you can see a **step-by-step, color-coded** description detailing the error and how it can be fixed. You can also **accept or deny suggestions** on the sidebar, giving you a quick fix and saving you time finding bugs and fixing them!
 
-![Terminal](images/GenerateCodeArtboardOptimized.gif)
+![Terminal](static/img/GenerateCodeArtboardOptimized.gif)
 
 ### What you'll need
 
