@@ -8,7 +8,7 @@ sidebar_position: 1
 
 Welcome to Kropply!
 
-Here, you can learn how to streamline your coding process with a tool to fix **logic, package, and unit-level bugs**
+Here, you can learn how to streamline your coding process with a tool to fix **logic, package, and unit-level bugs** when using TypeScript and Jest.
 
 ### What is Kropply?
 
