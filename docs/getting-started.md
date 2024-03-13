@@ -14,16 +14,12 @@ To get on the list for Kropply, simply go to [our website]("https://www.kropply.
 ### Downloading Software
 Install Kropply using the VS Code Marketplace [here!]("https://marketplace.visualstudio.com/items?itemName=kropply.kropply")
 
-![Download Kropply here!](images/DownloadKropply.png)
+<img src="images/DownloadKropply.png" width="500">
 
 ### Logging In
 Once Kropply is downloaded, click the "Change Access Token" button shown below to get logged in.
 
-![Enter Access Token here!](images/AccessToken.png)
+<img src="images/AccessToken.png" width="500">
 
 Check your email and spam folder for a message from "tm.kropply.com" with a token. Copy and paste the code into the box to begin using Kropply!
 
-
-<!---
-Need to put the email that users get their token from, I wasn't sure which it was.
---->
