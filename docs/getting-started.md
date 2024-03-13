@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Getting Started
 
-Use this section to sign up for and download Kropply, a Visual Studio Code extension that **fixes logic, package, and unit-level bugs in your codebase** in real time.
+Use this section to sign up for and download Kropply, a Visual Studio Code extension that **fixes logic, package, and unit-level bugs in your codebase** in real time as seen here!
 
 ![ActionPt](images/ActionPointsAndExplanationArtboardOptimized.gif)
 
