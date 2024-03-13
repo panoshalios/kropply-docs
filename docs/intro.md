@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Introduction
 
+![Summary](images/SummaryArtboard.png)
+
 Welcome to Kropply!
 
 Here, you can learn how to streamline your coding process with a tool to fix **logic, package, and unit-level bugs**
