@@ -8,11 +8,11 @@ Use this section to sign up for and download Kropply, a Visual Studio Code exten
 
 ### Signing Up
 
-To get on the list for Kropply, simply go to [our website]("https://www.kropply.com") and enter your email in the dialogue box.
+To get on the list for Kropply, simply go to <a href="https://www.kropply.com">our website</a> and enter your email in the dialogue box.
 
 ### Downloading Software
 
-Install Kropply using the VS Code Marketplace [here!]("https://marketplace.visualstudio.com/items?itemName=kropply.kropply")
+Install Kropply using the VS Code Marketplace <a href="https://marketplace.visualstudio.com/items?itemName=kropply.kropply">here!</a>
 
 <img src="images/DownloadKropply.png" width="500" />
 
