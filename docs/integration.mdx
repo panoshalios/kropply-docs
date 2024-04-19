@@ -1,0 +1,78 @@
+---
+sidebar_position: 3
+---
+
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
+# Integration
+
+<!-- This will be turned into a complete guide -->
+<!-- Git clone broken repo -->
+
+Let's get started by cloning a repository that has built in errors.
+
+```bash
+git clone https://github.com/panoshalios/kropply-demo.git
+```
+
+<!-- Open a file in VS Code and install packages -->
+
+Open that repository with VS Code and then install the packages.
+
+```bash
+npm install
+```
+
+## Running Kropply
+
+<!-- CMD + S -->
+
+Open `mergesort.test.ts`. All you need to do now is to save it.
+
+<Tabs>
+    <TabItem value="mac" label="Mac" default>
+        `CMD + S`
+    </TabItem>
+    <TabItem value="windows-linux" label="Linux/Window">
+        `CTRL + S`
+    </TabItem>
+</Tabs>
+
+<!-- Wait and click on the Kropply panel -->
+
+Wait a bit for suggestions to generate. In the background, Kropply is running Jest to capture the errors.\
+On the **left hand side panel** you should see the number of suggestions on top of the Kropply logo.
+
+<img
+    src="/img/suggestion-count.png"
+    alt="number of suggestions"
+    style={{ maxWidth: "60%" }}
+/>
+
+## Viewing suggestions
+
+<!-- Viewing the suggestions -->
+
+Click on the logo to see the suggestions.
+
+> [!NOTE]
+> Keep in mind that the suggestions that you have might be different that ones from the below image.
+
+<img
+    src="/img/suggestion.png"
+    alt="the suggestions"
+    style={{ maxWidth: "60%" }}
+/>
+
+<!-- Click the diff -->
+
+## Diffin'
+
+> Click the inside a suggestion to display the diff within the editor.
+
+## Applying a fix
+
+Finally click **Apply**.
+
+**You just succesfully fixed your first error with Kropply!**

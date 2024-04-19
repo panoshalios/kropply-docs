@@ -4,22 +4,26 @@ sidebar_position: 1
 
 # Introduction
 
-![Summary](images/SummaryArtboard.png)
+## Welcome to Kropply!
 
-**Welcome to Kropply!**
+Kropply is an AI autocorrect for runtime errors.
+Focus on shipping code faster while the AI coding partner provides suggestions for unit-level bugs.
 
-Here, you can learn how to streamline your coding process with a tool to fix **logic, package, and unit-level bugs** when using TypeScript and Jest.
+<!-- todo prettify -->
 
-### What is Kropply?
+No prompting.
+We believe that you code (and the comments/documentation) you have should be enough to figure out what you want to achieve.
 
-Kropply is a Visual Studio Code extension that **determines bug fixes for your code in real time.** Using the Kropply terminal, you can see a **step-by-step, color-coded** description detailing the error and how it can be fixed. You can also **accept or deny suggestions** on the sidebar, giving you a quick fix and saving you time finding bugs and fixing them!
+Test Driven Development.
+We know that writing tests is boring and feels unproductive **BUT** with Kropply we use the expected output from that test to understand how to fix the code. Less prompting from you.
 
-![Terminal](images/GenerateCodeArtboardOptimized.gif)
+### How it works
+
+Kropply runs in the background whenever you save a TypeScript file (.ts, .tsx).
+It uses the expected output from test to generate code to correct the issue.
 
 ### What you'll need
 
-- Visual Studio Code
-- an email address
-
-**Go through this site to learn how to install, use, and troubleshoot with Kropply!**
-
+-   Visual Studio Code
+-   TypeScript project
+-   Jest testing framework
