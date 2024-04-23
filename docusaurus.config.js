@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import { themes as prismThemes } from "prism-react-renderer"
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -40,12 +40,14 @@ const config = {
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
                 docs: {
+                    routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+                        "https://github.com/panoshalios/panoshalios.github.io/tree/main",
                 },
+                blog: false,
                 theme: {
                     customCss: "./src/css/custom.css",
                 },
@@ -60,15 +62,16 @@ const config = {
             image: "img/KropplyLogo.png",
             navbar: {
                 logo: {
-                    alt: "My Site Logo",
+                    alt: "Kropply Logo",
                     src: "img/KropplyLogo.png",
+                    srcDark: "img/KropplyLogoDark.png",
                 },
                 items: [
                     {
                         type: "docSidebar",
                         sidebarId: "tutorialSidebar",
                         position: "left",
-                        label: "Tutorial",
+                        label: "Docs",
                     },
                 ],
             },
@@ -79,7 +82,7 @@ const config = {
                         title: "Docs",
                         items: [
                             {
-                                label: "Tutorial",
+                                label: "Docs",
                                 to: "/docs/intro",
                             },
                         ],
@@ -92,6 +95,6 @@ const config = {
                 darkTheme: prismThemes.dracula,
             },
         }),
-}
+};
 
-export default config
+export default config;

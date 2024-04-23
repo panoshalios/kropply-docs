@@ -1,6 +1,6 @@
-# Website
+# Kropply Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The documentation is built using [Docusaurus](https://docusaurus.io/).
 
 ### Installation
 
