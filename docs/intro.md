@@ -24,6 +24,6 @@ It uses the expected output from tests to generate code to correct the issue.
 
 ### What you'll need
 
--   Visual Studio Code
--   TypeScript project
--   Jest testing framework
+-   [Visual Studio Code](https://code.visualstudio.com/)
+-   [TypeScript project](https://www.typescriptlang.org/)
+-   [Jest testing framework](https://jestjs.io/)
